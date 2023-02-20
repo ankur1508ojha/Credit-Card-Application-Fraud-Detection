@@ -5,11 +5,16 @@ The overall goal of the project is to develop a supervised machine-learning mode
 
 
 This report aims to document the process of creating and completing a supervised machine-learning algorithm that can detect and prevent fraud in real-time.
+
 • Data cleaning: examine the dataset and remove any inaccuracies
+
 • Feature Engineering: generate new and insightful features from the existing data
+
 • Feature selection: select the most relevant features from the dataset.
+
 • Modeling: build and test multiple machine learning models, to determine the most efficient and effective
   model for detecting and predicting fraud in real-time.
+  
 • Conclusion: Analyze the results of the machine learning models and draw conclusions.
 
 
