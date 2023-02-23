@@ -1,6 +1,10 @@
 This project is a part of my coursework at USC Marshall School of Business for DSO 562 - Fraud Analytics. The objective is to apply supervised machine learning techniques to solve an imbalanced classification problem, where the task is to identify fraudulent credit card applications.
 
-**Description** : 
+**Data Description** :
+The data is synthetic application data containing Personal Identifying Information in fields such as Name, SSN, address, DOB, and Phone Number. The data contains 10 fields and 1000000 records indicating the PII of individuals from US applications such as applications for opening credit cards or cell phone accounts from the date 2017-01-01 to 2017-12-31. 
+
+
+**Summary** : 
 Identity fraud, also known as identity theft, is a type of fraud in which a suspect deliberately uses another person's personal identifying information such as name, Social Security number, driver's license or other ID, credit card or bank account information without their permission or knowledge for financial gain or other illegal purposes. This type of fraud usually happens in the financial sector, mainly in the banking industry.
 
 
