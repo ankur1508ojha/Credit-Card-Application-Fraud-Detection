@@ -8,7 +8,7 @@ The data is synthetic application data containing Personal Identifying Informati
 Identity fraud, also known as identity theft, is a type of fraud in which a suspect deliberately uses another person's personal identifying information such as name, Social Security number, driver's license or other ID, credit card or bank account information without their permission or knowledge for financial gain or other illegal purposes. This type of fraud usually happens in the financial sector, mainly in the banking industry.
 
 
-**The overall goal of the project is to develop a supervised machine-learning model that can be used to detect and predict fraud in identification applications. It aims to develop an efficient and effective statistical analysis model that can be applied in practice to predict fraud and identify fraudulent identity applications.**
+**The overall goal of the project is to develop a supervised machine-learning model that can be used to detect and predict fraud in identification applications. It aims to develop an efficient and effective statistical analysis model that can be applied in practice to predict fraud and identify fraudulent applications.**
 
 
 This report aims to document the process of creating and completing a supervised machine-learning algorithm that can detect and prevent fraud in real-time.
